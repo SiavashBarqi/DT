@@ -1,1 +1,1 @@
-# DT
+# Digital Telecommunications
